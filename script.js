@@ -15,7 +15,7 @@ function getQuote() {
             console.log(data)
             quoteTxt.textContent=data.quoteText
             quoteAuth.textContent=data.quoteAuthor
-            getNew.textContent.innerHTML
+
             
     
         },
